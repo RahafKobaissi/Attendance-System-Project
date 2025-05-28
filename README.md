@@ -102,4 +102,4 @@ The ESP32 was used in this project to upload code to the ESP32-CAM and to supply
 ---
 <img src='connection/Overall.jpeg' width="400px" height="600px" alt="overall connections" >
 <img src='connection/esp32.jpeg' width="500px" height="600px" alt="esp32 image">
-<img src='connection/espcam.jpeg' width="400px" height="600px" alt="esp32-cam image>
+<img src='connection/espcam.jpeg' width="400px" height="600px" alt="esp32-cam image">
